@@ -84,7 +84,7 @@ Editor.builtinPlugins = [
 	Underline,
   // --- custom plugins
   InsertSignature,
-  // CustomFigureAttributes
+  CustomFigureAttributes
 ];
 
 export default Editor;
